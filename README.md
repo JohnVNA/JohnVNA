@@ -18,7 +18,4 @@ Sou John, um entusiasta de 23 anos apaixonado por tecnologia e suas incríveis p
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnVna&theme=shadow_red)](https://github.com/JohnVNA/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVNA&layout=compact&theme=shadow_red)
-
   
